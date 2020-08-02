@@ -1,5 +1,7 @@
 https://aws.amazon.com/free/
 
+Cloudwatch > alarms > Billing
+
 MFA Applications : 
 
 https://itunes.apple.com/au/app/google-authenticator/id388497605?mt=8
